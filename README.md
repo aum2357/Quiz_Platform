@@ -416,8 +416,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=28A745&center=true&multiline=true&repeat=false&width=500&height=30&lines=Made+with+❤️+by+%5BYour+Name%5D+%7C+©+2025+Quiz+Assessment+Platform" alt="Footer" />
 
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
+<a href="https://github.com/aum2357">
+  <img src="https://img.shields.io/github/followers/aum2357?label=Follow&style=social" alt="GitHub followers" />
 </a>
 
 </div>
