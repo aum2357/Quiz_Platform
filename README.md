@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=3000&pause=500&color=667EEA&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=800&height=80&lines=🧠+Professional+Quiz+Assessment+Platform;Challenge+Your+Knowledge;Test+Your+Skills;Boost+Your+Learning" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=3000&pause=500&color=667EEA&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=900&height=80&lines=🧠+Professional+Quiz+Assessment+Platform;Challenge+Your+Knowledge;Test+Your+Skills;Boost+Your+Learning" alt="Typing SVG" />
 
 <img src="https://via.placeholder.com/800x200/667eea/ffffff?text=🧠+Professional+Quiz+Assessment+Platform" alt="Quiz Banner" width="800" />
 
@@ -21,7 +21,7 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=🎯+Challenge+Your+Knowledge+%7C+⚡+Real-time+Scoring+%7C+🏆+Professional+Grading" alt="Features Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=🎯+Challenge+Your+Knowledge+%7C+⚡+Real-time+Scoring+%7C+🏆+Professional+Grading" alt="Features Typing SVG" />
   </p>
 </div>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=F83D5C&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=45&lines=✨+Features+That+Amaze" alt="Features Title" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=F83D5C&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=45&lines=✨+Features+That+Amaze" alt="Features Title" />
 
 <div align="center">
   
@@ -73,7 +73,7 @@
 
 </div>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2000&pause=1000&color=28A745&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=40&lines=🚀+Core+Capabilities" alt="Core Capabilities" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2000&pause=1000&color=28A745&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=40&lines=🚀+Core+Capabilities" alt="Core Capabilities" />
 
 <div align="center">
   <table>
@@ -110,14 +110,14 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=3498DB&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=45&lines=🎨+Screenshots+%26+Demo" alt="Screenshots Title" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=3498DB&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=45&lines=🎨+Screenshots+%26+Demo" alt="Screenshots Title" />
 
 <div align="center">
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="text-align: center; margin: 0 10px;">
     <h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=240&height=40&lines=🏠+Welcome+Screen" alt="Welcome Screen Title" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=280&height=40&lines=🏠+Welcome+Screen" alt="Welcome Screen Title" />
     </h3>
     <img src="https://via.placeholder.com/600x400/667eea/ffffff?text=🎓+Welcome+Screen" alt="Welcome Screen" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.5);" />
   </div>
@@ -126,7 +126,7 @@
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="text-align: center; margin: 0 10px;">
     <h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&repeat=false&width=240&height=40&lines=📝+Quiz+Interface" alt="Quiz Interface Title" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&repeat=false&width=260&height=40&lines=📝+Quiz+Interface" alt="Quiz Interface Title" />
     </h3>
     <img src="https://via.placeholder.com/600x400/764ba2/ffffff?text=🧠+Quiz+Interface" alt="Quiz Interface" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(118, 75, 162, 0.5);" />
   </div>
@@ -135,7 +135,7 @@
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="text-align: center; margin: 0 10px;">
     <h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=28A745&center=true&vCenter=true&repeat=false&width=240&height=40&lines=🏆+Results+Dashboard" alt="Results Dashboard Title" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=28A745&center=true&vCenter=true&repeat=false&width=300&height=40&lines=🏆+Results+Dashboard" alt="Results Dashboard Title" />
     </h3>
     <img src="https://via.placeholder.com/600x400/28a745/ffffff?text=📊+Results+Dashboard" alt="Results Dashboard" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(40, 167, 69, 0.5);" />
   </div>
@@ -145,9 +145,9 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=FF6F61&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=45&lines=🛠️+Installation" alt="Installation Title" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=FF6F61&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=45&lines=🛠️+Installation" alt="Installation Title" />
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=3498DB&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=35&lines=📋+Prerequisites" alt="Prerequisites Title" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=3498DB&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=35&lines=📋+Prerequisites" alt="Prerequisites Title" />
 
 <div align="center">
   <table>
@@ -166,10 +166,10 @@
   </table>
 </div>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=28A745&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=35&lines=🚀+Quick+Start" alt="Quick Start Title" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=28A745&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=35&lines=🚀+Quick+Start" alt="Quick Start Title" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=500&color=FF6F61&center=true&multiline=true&width=600&height=120&lines=git+clone+https%3A%2F%2Fgithub.com%2Fyourusername%2Fquiz-assessment-platform.git;cd+quiz-assessment-platform;npm+install;npm+run+dev" alt="Terminal Commands" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=500&color=FF6F61&center=true&multiline=true&width=650&height=120&lines=git+clone+https%3A%2F%2Fgithub.com%2Fyourusername%2Fquiz-assessment-platform.git;cd+quiz-assessment-platform;npm+install;npm+run+dev" alt="Terminal Commands" />
 </div>
 
 ```bash
@@ -186,14 +186,14 @@ npm install
 npm run dev
 ```
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=764BA2&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=35&lines=🔧+Environment+Setup" alt="Environment Setup Title" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=764BA2&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=35&lines=🔧+Environment+Setup" alt="Environment Setup Title" />
 
 <div align="left">
   <ol>
     <li>
       <strong>Create <code>.env</code> file</strong> in the root directory:
       <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&multiline=true&width=500&height=90&lines=VITE_QUIZ_API_KEY=your_api_key_here;VITE_OPEN_TRIVIA_API_URL=https%3A%2F%2Fopentdb.com%2Fapi.php;VITE_QUIZ_API_URL=https%3A%2F%2Fquizapi.io%2Fapi%2Fv1%2Fquestions" alt="Environment Variables" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&multiline=true&width=600&height=90&lines=VITE_QUIZ_API_KEY=your_api_key_here;VITE_OPEN_TRIVIA_API_URL=https%3A%2F%2Fopentdb.com%2Fapi.php;VITE_QUIZ_API_URL=https%3A%2F%2Fquizapi.io%2Fapi%2Fv1%2Fquestions" alt="Environment Variables" />
       </div>
       <pre><code>VITE_QUIZ_API_KEY=your_api_key_here
 VITE_OPEN_TRIVIA_API_URL=https://opentdb.com/api.php
@@ -202,7 +202,7 @@ VITE_QUIZ_API_URL=https://quizapi.io/api/v1/questions</code></pre>
     <li>
       <strong>Install additional dependencies</strong> (if needed):
       <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=F83D5C&center=true&width=500&height=30&lines=npm+install+axios+react-router-dom" alt="Additional Dependencies" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=F83D5C&center=true&width=600&height=30&lines=npm+install+axios+react-router-dom" alt="Additional Dependencies" />
       </div>
       <pre><code>npm install axios react-router-dom</code></pre>
     </li>
@@ -398,7 +398,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=F83D5C&center=true&vCenter=true&repeat=true&width=600&height=60&lines=🚀+Ready+to+Test+Your+Knowledge%3F" alt="Ready to start" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=F83D5C&center=true&vCenter=true&repeat=true&width=700&height=60&lines=🚀+Ready+to+Test+Your+Knowledge%3F" alt="Ready to start" />
 
 <p align="center">
   <a href="https://your-quiz-app-url.com">
@@ -414,9 +414,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=28A745&center=true&multiline=true&repeat=false&width=500&height=30&lines=Made+with+❤️+by+%5BYour+Name%5D+%7C+©+2025+Quiz+Assessment+Platform" alt="Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=28A745&center=true&multiline=true&repeat=false&width=600&height=30&lines=Made+with+❤️+by+%5BYour+Name%5D+%7C+©+2025+Quiz+Assessment+Platform" alt="Footer" />
 
-<a href="https://github.com/aum2357">
+<a href="https://github.com/yourusername">
   <img src="https://img.shields.io/github/followers/aum2357?label=Follow&style=social" alt="GitHub followers" />
 </a>
 
