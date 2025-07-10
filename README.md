@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=3000&pause=500&color=667EEA&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=900&height=80&lines=🧠+Professional+Quiz+Assessment+Platform;Challenge+Your+Knowledge;Test+Your+Skills;Boost+Your+Learning" alt="Typing SVG" />
+# 🧠 Professional Quiz Assessment Platform
 
 <img src="https://via.placeholder.com/800x200/667eea/ffffff?text=🧠+Professional+Quiz+Assessment+Platform" alt="Quiz Banner" width="800" />
 
@@ -21,7 +21,7 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=🎯+Challenge+Your+Knowledge+%7C+⚡+Real-time+Scoring+%7C+🏆+Professional+Grading" alt="Features Typing SVG" />
+    <b>🎯 Challenge Your Knowledge | ⚡ Real-time Scoring | 🏆 Professional Grading</b>
   </p>
 </div>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=F83D5C&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=45&lines=✨+Features+That+Amaze" alt="Features Title" />
+## ✨ Features That Amaze
 
 <div align="center">
   
@@ -73,7 +73,7 @@
 
 </div>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2000&pause=1000&color=28A745&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=40&lines=🚀+Core+Capabilities" alt="Core Capabilities" />
+### 🚀 Core Capabilities
 
 <div align="center">
   <table>
@@ -110,33 +110,27 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=3498DB&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=45&lines=🎨+Screenshots+%26+Demo" alt="Screenshots Title" />
+## 🎨 Screenshots & Demo
 
 <div align="center">
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="text-align: center; margin: 0 10px;">
-    <h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=280&height=40&lines=🏠+Welcome+Screen" alt="Welcome Screen Title" />
-    </h3>
+    <h3>🏠 Welcome Screen</h3>
     <img src="https://via.placeholder.com/600x400/667eea/ffffff?text=🎓+Welcome+Screen" alt="Welcome Screen" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.5);" />
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="text-align: center; margin: 0 10px;">
-    <h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&repeat=false&width=260&height=40&lines=📝+Quiz+Interface" alt="Quiz Interface Title" />
-    </h3>
+    <h3>📝 Quiz Interface</h3>
     <img src="https://via.placeholder.com/600x400/764ba2/ffffff?text=🧠+Quiz+Interface" alt="Quiz Interface" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(118, 75, 162, 0.5);" />
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="text-align: center; margin: 0 10px;">
-    <h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=28A745&center=true&vCenter=true&repeat=false&width=300&height=40&lines=🏆+Results+Dashboard" alt="Results Dashboard Title" />
-    </h3>
+    <h3>🏆 Results Dashboard</h3>
     <img src="https://via.placeholder.com/600x400/28a745/ffffff?text=📊+Results+Dashboard" alt="Results Dashboard" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(40, 167, 69, 0.5);" />
   </div>
 </div>
@@ -145,9 +139,9 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=1000&color=FF6F61&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=45&lines=🛠️+Installation" alt="Installation Title" />
+## 🛠️ Installation
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=3498DB&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=35&lines=📋+Prerequisites" alt="Prerequisites Title" />
+### 📋 Prerequisites
 
 <div align="center">
   <table>
@@ -166,18 +160,16 @@
   </table>
 </div>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=28A745&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=35&lines=🚀+Quick+Start" alt="Quick Start Title" />
+### 🚀 Quick Start
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=500&color=FF6F61&center=true&multiline=true&width=650&height=120&lines=git+clone+https%3A%2F%2Fgithub.com%2Fyourusername%2Fquiz-assessment-platform.git;cd+quiz-assessment-platform;npm+install;npm+run+dev" alt="Terminal Commands" />
-</div>
+
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quiz-assessment-platform.git
+git clone https://github.com/aum2357/Quiz_Platform.git
 
 # Navigate to project directory
-cd quiz-assessment-platform
+cd Quiz_Platform/quiz
 
 # Install dependencies
 npm install
@@ -186,24 +178,20 @@ npm install
 npm run dev
 ```
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&pause=1000&color=764BA2&background=FFFFFF00&vCenter=true&repeat=false&width=500&height=35&lines=🔧+Environment+Setup" alt="Environment Setup Title" />
+### 🔧 Environment Setup
 
 <div align="left">
   <ol>
     <li>
       <strong>Create <code>.env</code> file</strong> in the root directory:
-      <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&multiline=true&width=600&height=90&lines=VITE_QUIZ_API_KEY=your_api_key_here;VITE_OPEN_TRIVIA_API_URL=https%3A%2F%2Fopentdb.com%2Fapi.php;VITE_QUIZ_API_URL=https%3A%2F%2Fquizapi.io%2Fapi%2Fv1%2Fquestions" alt="Environment Variables" />
-      </div>
+
       <pre><code>VITE_QUIZ_API_KEY=your_api_key_here
 VITE_OPEN_TRIVIA_API_URL=https://opentdb.com/api.php
 VITE_QUIZ_API_URL=https://quizapi.io/api/v1/questions</code></pre>
     </li>
     <li>
       <strong>Install additional dependencies</strong> (if needed):
-      <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=F83D5C&center=true&width=600&height=30&lines=npm+install+axios+react-router-dom" alt="Additional Dependencies" />
-      </div>
+
       <pre><code>npm install axios react-router-dom</code></pre>
     </li>
   </ol>
@@ -234,22 +222,23 @@ VITE_QUIZ_API_URL=https://quizapi.io/api/v1/questions</code></pre>
 
 ### 🏗️ **Project Structure**
 ```
-quiz-assessment-platform/
-├── 📁 src/
-│   ├── 📁 components/
-│   │   ├── 🎨 Quiz.jsx           # Main quiz component
-│   │   ├── 📝 Question.jsx       # Individual question display
-│   │   ├── ⏱️ TotalTimer.jsx     # Timer management
-│   │   └── 📊 ScoreDisplay.jsx   # Results presentation
-│   ├── 📁 services/
-│   │   └── 🔧 quizService.js     # API integration & question management
-│   ├── 📁 data/
-│   │   └── 📚 csQuestions.js     # Local question database
-│   └── 📁 styles/
-│       └── 🎨 Quiz.css           # Beautiful styling
-├── 📄 package.json
-├── ⚙️ vite.config.js
-└── 📖 README.md
+Quiz_Platform/
+├── quiz/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Quiz.jsx           # Main quiz component
+│   │   │   ├── Question.jsx       # Individual question display
+│   │   │   ├── TotalTimer.jsx     # Timer management
+│   │   │   └── ScoreDisplay.jsx   # Results presentation
+│   │   ├── services/
+│   │   │   └── quizService.js     # API integration & question management
+│   │   ├── data/
+│   │   │   └── csQuestions.js     # Local question database
+│   │   └── assets/
+│   │       └── react.svg          # React logo
+│   ├── package.json
+│   ├── vite.config.js
+│   └── README.md
 ```
 
 ### 🚀 **Technologies Used**
@@ -319,7 +308,7 @@ const fetchCustomAPI = async (count, category, difficulty) => {
 We welcome contributions! Here's how you can help:
 
 ### 🐛 **Bug Reports**
-- Use the [issue tracker](https://github.com/yourusername/quiz-assessment-platform/issues)
+- Use the [issue tracker](https://github.com/aum2357/Quiz_Platform/issues)
 - Include screenshots and detailed steps to reproduce
 
 ### 💡 **Feature Requests**
@@ -355,9 +344,9 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/quiz-assessment-platform?style=social)](https://github.com/yourusername/quiz-assessment-platform/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/quiz-assessment-platform?style=social)](https://github.com/yourusername/quiz-assessment-platform/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/quiz-assessment-platform?style=social)](https://github.com/yourusername/quiz-assessment-platform/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/aum2357/Quiz_Platform?style=social)](https://github.com/aum2357/Quiz_Platform/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/aum2357/Quiz_Platform?style=social)](https://github.com/aum2357/Quiz_Platform/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/aum2357/Quiz_Platform?style=social)](https://github.com/aum2357/Quiz_Platform/watchers)
 
 **🎉 1000+ Happy Users | 🌟 50+ GitHub Stars | 🚀 Active Development**
 
@@ -398,7 +387,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=F83D5C&center=true&vCenter=true&repeat=true&width=700&height=60&lines=🚀+Ready+to+Test+Your+Knowledge%3F" alt="Ready to start" />
+### 🚀 Ready to Test Your Knowledge?
 
 <p align="center">
   <a href="https://your-quiz-app-url.com">
@@ -407,16 +396,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <a href="#">
     <img src="https://img.shields.io/badge/📚_Read_Documentation-Learn_More-764BA2?style=for-the-badge&logoColor=white" alt="Documentation" />
   </a>
-  <a href="https://github.com/yourusername/quiz-assessment-platform">
+  <a href="https://github.com/aum2357/Quiz_Platform">
     <img src="https://img.shields.io/badge/💻_View_Code-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
   </a>
 </p>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=28A745&center=true&multiline=true&repeat=false&width=600&height=30&lines=Made+with+❤️+by+%5BYour+Name%5D+%7C+©+2025+Quiz+Assessment+Platform" alt="Footer" />
+*Made with ❤️ by [Aditya Patel] | © 2025 Quiz Assessment Platform*
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/aum2357">
   <img src="https://img.shields.io/github/followers/aum2357?label=Follow&style=social" alt="GitHub followers" />
 </a>
 
