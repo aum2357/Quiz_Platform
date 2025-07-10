@@ -1,3 +1,30 @@
+/* CSS Variables - Define common values used throughout the quiz */
+:root {
+  --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --primary-color: #667eea;
+  --secondary-color: #764ba2;
+  --text-light: #ffffff;
+  --text-dark: #2c3e50;
+  --text-muted: #666666;
+  --background-light: #f8f9fa;
+  --border-light: #e9ecef;
+  --shadow-light: rgba(0, 0, 0, 0.15);
+  --shadow-primary: rgba(102, 126, 234, 0.3);
+  --shadow-primary-strong: rgba(102, 126, 234, 0.4);
+  --transparent-white: rgba(255, 255, 255, 0.1);
+  --transparent-white-strong: rgba(255, 255, 255, 0.2);
+  --transparent-border: rgba(255, 255, 255, 0.3);
+  --slider-percent: 50%;
+  
+  /* Grade colors - Used for results display */
+  --grade-color-a: #4CAF50;
+  --grade-color-b: #8BC34A;
+  --grade-color-c: #FFC107;
+  --grade-color-d: #FF9800;
+  --grade-color-f: #F44336;
+  --grade-color: var(--grade-color-c); /* Default grade color */
+}
+
 /* Main Container Styles - Defines the core layout and background of the quiz application */
 .quiz-container {
   min-height: 100vh;
@@ -636,7 +663,7 @@
   margin-top: 8px;
   padding: 8px;
   background: #f8f9fa;
-
+}
 .results-actions {
   display: flex;
   justify-content: center;
@@ -768,169 +795,71 @@
 }
 
 @media (max-width: 768px) {
+  /* Mobile Responsiveness - Adjustments for smaller screens */
+  .quiz-container {
+    padding: 15px 10px;
+    overflow: auto; /* Enable scrolling on the main container */
+  }
+
+  .quiz-main-content {
+    margin-left: 0;
+    max-width: 100%;
+    padding-top: 10px;
+  }
+
+  /* Mobile timer positioning */
+  .total-timer {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    left: 0;
+    top: 0;
+    margin-bottom: 15px;
+    height: auto;
+  }
+
   .welcome-content,
   .results-content {
-    padding: 20px 15px;
-    margin: 8px;
-    border-radius: 18px;
+    padding: 20px;
     width: 95%;
-    max-height: 95vh;
+    max-height: 90vh;
   }
-  
-  .welcome-title,
-  .results-title {
-    font-size: 1.7rem;
-    margin-bottom: 12px;
-  }
-  
-  .welcome-description {
-    font-size: 0.95rem;
-    margin-bottom: 15px;
-  }
-  
-  .quiz-info {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-  }
-  
+
   .info-item {
-    padding: 8px 5px;
-  }
-  
-  .performance-explanation {
-    padding: 20px 15px;
-    margin: 20px 0;
-  }
-  
-  .performance-explanation h4 {
-    font-size: 1.1rem;
-    margin-bottom: 15px;
-  }
-  
-  .explanation-item {
-    padding: 12px;
-    gap: 10px;
-  }
-  
-  .explanation-text {
-    font-size: 0.9rem;
-  }
-  
-  .score-note {
-    font-size: 0.85rem;
-    padding: 12px;
-  }
-  
-  .info-icon {
-    font-size: 1.6rem;
-  }
-  
-  .info-text {
-    font-size: 0.8rem;
-  }
-  
-  .scoring-info {
-    padding: 15px;
-    margin: 15px 0;
-  }
-  
-  .scoring-grid {
-    grid-template-columns: 1fr;
-    gap: 8px;
+    padding: 8px;
   }
 }
 
 @media (max-width: 480px) {
+  .quiz-container {
+    padding: 10px 5px;
+  }
+
   .welcome-content,
   .results-content {
-    padding: 20px 15px;
-    margin: 5px;
+    padding: 15px;
     width: 98%;
-    max-height: 98vh;
+    border-radius: 18px;
   }
-  
+
   .welcome-title,
   .results-title {
-    font-size: 1.8rem;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
   }
-  
-  .quiz-info {
-    grid-template-columns: 1fr;
-    gap: 12px;
-    margin-bottom: 25px;
-  }
-  
-  .info-item {
-    padding: 12px 8px;
-  }
-  
-  .info-icon {
-    font-size: 1.6rem;
-  }
-  
-  .info-text {
-    font-size: 0.8rem;
-  }
-  
+
   .welcome-description {
-    font-size: 0.95rem;
-    margin-bottom: 25px;
+    font-size: 0.9rem;
   }
-  
-  .scoring-info {
-    padding: 15px;
-    margin: 20px 0;
-  }
-  
-  .scoring-grid {
-    grid-template-columns: 1fr;
+
+  .quiz-info {
+    grid-template-columns: repeat(2, 1fr);
     gap: 10px;
   }
-  
-  .scoring-text {
-    font-size: 0.8rem;
-  }
-  
+
   .start-button,
   .retry-button {
-    padding: 14px 30px;
-    font-size: 1rem;
-    min-width: 180px;
-  }
-  
-  .welcome-actions,
-  .results-actions {
-    margin-top: 20px;
-  }
-  
-  .welcome-icon {
-    font-size: 2.5rem;
-    margin-bottom: 15px;
-  }
-  
-  .performance-explanation {
-    padding: 15px 12px;
-    margin: 15px 0;
-  }
-  
-  .performance-explanation h4 {
-    font-size: 1rem;
-    margin-bottom: 12px;
-  }
-  
-  .explanation-item {
-    padding: 10px;
-    gap: 8px;
-  }
-  
-  .explanation-text {
-    font-size: 0.85rem;
-  }
-  
-  .score-note {
-    font-size: 0.8rem;
-    padding: 10px;
+    padding: 10px 20px;
+    font-size: 0.9rem;
   }
 }
 
