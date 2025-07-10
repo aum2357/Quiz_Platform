@@ -291,6 +291,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-*Made with ❤️ by [Your Name](https://github.com/yourusername) | © 2025 Quiz Assessment Platform*
+*Made with ❤️ by [Aditya Patel](https://github.com/aum2357) | © 2025 Quiz Assessment Platform*
 
 </div>
